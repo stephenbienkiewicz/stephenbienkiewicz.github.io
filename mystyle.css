@@ -1,0 +1,40 @@
+h1, h2, h4 {
+	text-align: center;
+	}	
+
+p 	{
+	color: darkblue;
+	background-color: #ffb3e6;
+	text-align: left;
+	}
+
+img {
+	width: 500px;
+	height: 300px;
+	margin: 0 auto;
+	padding: 45px;
+	background-color: blue;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+	}
+
+.rule1 {
+	text-transform: uppercase;
+	}
+
+#other-links {
+	background-color: #ffb3e6 ;
+	font-style: italic;
+	text-decoration: underline;
+	}
+
+.rule2 {
+	font-style: italic;
+	}
+
+.rule3 {
+	text-transform: capitalize;
+	}
+
+
